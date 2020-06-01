@@ -1,0 +1,10 @@
+[gd_resource type="Resource" load_steps=2 format=2]
+
+[ext_resource path="res://ParticleWorld.gd" type="Script" id=1]
+
+[resource]
+script = ExtResource( 1 )
+friction = 0.003
+number_of_types = 8
+max_force = 500.0
+max_radius = 250.0
